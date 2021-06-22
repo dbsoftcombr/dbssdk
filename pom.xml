@@ -38,7 +38,7 @@
 		<jaxrs.version>2.0.1</jaxrs.version>
 		<!-- <json.version>20140107</json.version> -->
 		<!-- <jackson.version>2.8.6</jackson.version> -->
-		<jackson.version>2.9.6</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 		<!-- 2.5.1 -->
 	</properties>
 	<distributionManagement>
