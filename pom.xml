@@ -33,7 +33,7 @@
 		<joda-time.version>2.1</joda-time.version>
 		<caelum-stella.version>2.1.0</caelum-stella.version>
 		<jsf.version>2.2.11</jsf.version>
-		<apache-poi.version>3.13</apache-poi.version>
+		<apache-poi.version>4.1.2</apache-poi.version>
 		<httpclient.version>3.1</httpclient.version>
 		<jaxrs.version>2.0.1</jaxrs.version>
 		<!-- <json.version>20140107</json.version> -->
