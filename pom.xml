@@ -29,7 +29,7 @@
 		<javax.json.version>1.0</javax.json.version>
 		<jstl.version>1.2</jstl.version>
 		<oracle.version>11.2.0.3</oracle.version>
-		<mysql.version>8.0.15</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<joda-time.version>2.1</joda-time.version>
 		<caelum-stella.version>2.1.0</caelum-stella.version>
 		<jsf.version>2.2.11</jsf.version>
